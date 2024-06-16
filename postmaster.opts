@@ -1,0 +1,1 @@
+/nix/store/ccwg6krij1xhkrnhadm2ypcpk7wa7jdp-postgresql-13.5/bin/postgres "-D" "data"
